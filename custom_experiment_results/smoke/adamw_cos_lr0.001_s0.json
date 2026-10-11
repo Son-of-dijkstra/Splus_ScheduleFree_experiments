@@ -1,0 +1,1 @@
+{"cfg": {"method": "adamw_cos", "lr": 0.001, "seed": 0, "epochs": 2, "bs": 64, "inverse_every": 10, "wd": 0.05, "sched": "cos", "evals": []}, "train_loss": [2.263460874557495, 2.1913859844207764], "train_acc": [0.14453125, 0.1767578125], "test_loss": [2.1505195796489716, 2.093752771615982], "test_acc": [0.1875, 0.255859375], "time": 1.9627089500427246, "diverged": false}

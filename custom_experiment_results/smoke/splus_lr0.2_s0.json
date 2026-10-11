@@ -1,0 +1,1 @@
+{"cfg": {"method": "splus", "lr": 0.2, "seed": 0, "epochs": 2, "bs": 64, "inverse_every": 10, "wd": 0.1, "sched": "const", "evals": ["ema"]}, "train_loss": [2.259342908859253, 2.181636095046997], "train_acc": [0.158203125, 0.18798828125], "test_loss": [2.150385271757841, 2.0755819752812386], "test_acc": [0.244140625, 0.27734375], "time": 2.1026690006256104, "diverged": false}

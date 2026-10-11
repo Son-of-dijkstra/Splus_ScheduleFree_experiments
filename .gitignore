@@ -1,0 +1,13 @@
+data/
+__pycache__
+train.sh
+.ipynb
+iwslt14.tokenized.de-en/
+fairseq/
+requirements.txt
+*.tar.gz
+*.zip
+*.pt
+*.pth
+*.ckpt
+*.bin

@@ -1,0 +1,1 @@
+{"cfg": {"method": "adamw_sf", "lr": 0.001, "seed": 0, "epochs": 2, "bs": 64, "inverse_every": 10, "wd": 0.05, "sched": "const", "evals": ["sf"]}, "train_loss": [2.264758825302124, 2.185595750808716], "train_acc": [0.14892578125, 0.18701171875], "test_loss": [2.118499968200922, 2.06098610162735], "test_acc": [0.19921875, 0.234375], "time": 1.9887869358062744, "diverged": false}
